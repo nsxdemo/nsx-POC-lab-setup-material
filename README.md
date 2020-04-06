@@ -1,4 +1,4 @@
-# NSX-T technical material from Barany Mok
+# NSX-T technical material from Barany Mok :wink:
 Here is a repository listing some of the material created for customers or partners, it helps the team to have a place to learn and have fun on NSX-T design and deployment.
 
 
