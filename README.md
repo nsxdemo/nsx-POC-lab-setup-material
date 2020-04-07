@@ -14,7 +14,7 @@ It focus on how to prepare NSX-T onto ESXi (compute-node)host and Tier-0 configu
 
 **Webminar material / Demo video**
 
-[NSX advanced Loadbalancer (Avi Network) webminar](https://onevmw-my.sharepoint.com/:v:/g/personal/bmok_vmware_com/EZCs_AOGgYNKjQyM7ujsl5UBpQ4cR3gRiz09F-0yXowggg?e=fUce16)
+[NSX advanced Loadbalancer (Avi Network) webminar in March 2020 - Cantonese](https://onevmw-my.sharepoint.com/:v:/g/personal/bmok_vmware_com/EZCs_AOGgYNKjQyM7ujsl5UBpQ4cR3gRiz09F-0yXowggg?e=fUce16)
 it gives a brief on why NSX advanced loadbalancer distributed architecture is better than traditional hardward-based load balancer, as well as, a product demo. - [Demo](https://onevmw-my.sharepoint.com/:v:/g/personal/bmok_vmware_com/EQVxKaFdLhxDi93oXovJVWgBCwUmETG9A8hyIVMcujCBSA?e=2EOTes) & 
 [Presentation material](https://onevmw-my.sharepoint.com/:b:/g/personal/bmok_vmware_com/ERWzBLjBt9ROiJ4zlrfBF7cBfh0aoKBpmd722R_OXm1Hbw?e=DLLEct)
 
