@@ -1,4 +1,4 @@
-# NSX-T technical material from Barany Mok :wink:
+# NSX-T technical material from Barany Mok :wink: ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nsxdemo/nsx-POC-lab-setup-material/edit/master/README.md)
 Here is a repository listing some of the material created for customers or partners, it helps the team to have a place to learn and have fun on NSX-T design and deployment.
 
 
