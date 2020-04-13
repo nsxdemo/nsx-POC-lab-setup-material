@@ -8,7 +8,8 @@ It focus on how to prepare NSX-T onto ESXi (compute-node)host and Tier-0 configu
 
 
 
-
+**[NSX-T Advanced Load-balancer step-by-step setup guide (season 3a - with VMware write access mode)](https://onevmw-my.sharepoint.com/:b:/g/personal/bmok_vmware_com/Eag2xXP8aUxKqGg6sb_2g2QBEf3l3M-K5j8vpbzX55_HeQ?e=0Qb7bJ)**
+it provides a step-by-step guidance to install and run NSX Adv LB (Avi controller and service engine) in your vSphere lab environment, from deploy controller to setup virual service / DNS service and attach WAF on virtual service. Different WAF testing is recorded [here](https://onevmw-my.sharepoint.com/:v:/r/personal/bmok_vmware_com/Documents/Github%20material%20for%20public%2004-2020/WAF%20demo%20SQL%20command%20exe%20and%20XSS%2004-2020.mp4?csf=1&web=1&e=XubNWn) in a 12 mins demo.
 
 
 
