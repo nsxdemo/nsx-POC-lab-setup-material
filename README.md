@@ -1,6 +1,7 @@
 # NSX-T technical material from Barany Mok :wink: ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nsxdemo/nsx-POC-lab-setup-material/edit/master/README.md)
 Here is a repository listing some of the material created for customers or partners, it helps the team to have a place to learn and have fun on NSX-T design and deployment.
 
+**[NSX advanced LB integration with Tanzu - AKO and AMKO demo] (https://www.youtube.com/watch?v=Rh_OlNNuWZY&list=PLPzFGrmagR7a92HzhjSxawuU4OD4xYrWa) **
 
 **[NSX-T 2.5 step-by-step setup guide (season 1)](https://drive.google.com/file/d/1zHuZt3yjkbPo3zwk4mMRCset8RCnsLNA/view?usp=sharing)**
 it provides a step-by-step on-boarding lab setup guidance for partner to build a simple POC/demo NSX-T 2.5 environment and start to experience NSX-T capabilities.
