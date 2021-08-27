@@ -1,10 +1,10 @@
 # NSX-T technical material from Barany Mok :wink: ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nsxdemo/nsx-POC-lab-setup-material/edit/master/README.md)
 Here is a repository listing some of the material created for customers or partners, it helps the team to have a place to learn and have fun on NSX-T design and deployment.
 
-**[NSX advanced LB integration with Tanzu - AKO and AMKO demo](https://www.youtube.com/watch?v=Rh_OlNNuWZY&list=PLPzFGrmagR7a92HzhjSxawuU4OD4xYrWa)**
+Updated by August 2021 **[NSX advanced LB integration with Tanzu - AKO and AMKO demo](https://www.youtube.com/watch?v=Rh_OlNNuWZY&list=PLPzFGrmagR7a92HzhjSxawuU4OD4xYrWa)**
 It demonstrates the basic AKO/AKMO function on Tanzu Kubernetes Grid. AKO provides the L4 and ingress function for each workload cluster, AMKO automate the GSLB function for the need of multi cluster (multi-location) ingress. Both AKO/AMKO simplify the ingress / GSLB / multi-cluster deployment workflow, let's take a look...
 
-**[NSX lab setup - VDS7 and NSX 3.1](https://www.youtube.com/watch?v=CJu-YNdqlYE&list=PLPzFGrmagR7alfIiiue2rzzEFsz8jfuCF)**
+Updated by August 2021 **[NSX lab setup - VDS7 and NSX 3.1](https://www.youtube.com/watch?v=CJu-YNdqlYE&list=PLPzFGrmagR7alfIiiue2rzzEFsz8jfuCF)**
 It is a tpyical 2 node ESXi setup to run edge VM on the same ESXi host, supporting edgeVM TEP and ESXi TEP on the same subnet/host.
 
 **[NSX-T 2.5 step-by-step setup guide (season 1)](https://drive.google.com/file/d/1zHuZt3yjkbPo3zwk4mMRCset8RCnsLNA/view?usp=sharing)**
