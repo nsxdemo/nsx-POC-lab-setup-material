@@ -4,6 +4,9 @@ Here is a repository listing some of the material created for customers or partn
 **[NSX advanced LB integration with Tanzu - AKO and AMKO demo](https://www.youtube.com/watch?v=Rh_OlNNuWZY&list=PLPzFGrmagR7a92HzhjSxawuU4OD4xYrWa)**
 It demonstrates the basic AKO/AKMO function on Tanzu Kubernetes Grid. AKO provides the L4 and ingress function for each workload cluster, AMKO automate the GSLB function for the need of multi cluster (multi-location) ingress. Both AKO/AMKO simplify the ingress / GSLB / multi-cluster deployment workflow, let's take a look...
 
+**[NSX lab setup - VDS7 and NSX 3.1](https://www.youtube.com/watch?v=CJu-YNdqlYE&list=PLPzFGrmagR7alfIiiue2rzzEFsz8jfuCF)**
+It is a tpyical 2 node ESXi setup to run edge VM on the same ESXi host, supporting edgeVM TEP and ESXi TEP on the same subnet/host.
+
 **[NSX-T 2.5 step-by-step setup guide (season 1)](https://drive.google.com/file/d/1zHuZt3yjkbPo3zwk4mMRCset8RCnsLNA/view?usp=sharing)**
 it provides a step-by-step on-boarding lab setup guidance for partner to build a simple POC/demo NSX-T 2.5 environment and start to experience NSX-T capabilities.
 It focus on how to prepare NSX-T onto ESXi (compute-node)host and Tier-0 configuration.
