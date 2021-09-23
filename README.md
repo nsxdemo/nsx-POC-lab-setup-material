@@ -4,7 +4,7 @@ Here is a repository listing some of the material created for customers or partn
 Updated by August 2021 **[NSX advanced LB integration with Tanzu - AKO and AMKO demo (cantonese)](https://www.youtube.com/watch?v=Rh_OlNNuWZY&list=PLPzFGrmagR7a92HzhjSxawuU4OD4xYrWa)**
 It demonstrates the basic AKO/AKMO function on Tanzu Kubernetes Grid. AKO provides the L4 and ingress function for each workload cluster, AMKO automate the GSLB function for the need of multi cluster (multi-location) ingress. Both AKO/AMKO simplify the ingress / GSLB / multi-cluster deployment workflow, let's take a look...
 
-Updated by September 2021 **[NSX advanced LB integration with Tanzu - AKO and AMKO demo with AWS (cantonese)](https://www.youtube.com/watch?v=rYu9rkXaU14)** It is a part 3 & 4 video base on the pervious AKO/AMKO demo. Part 3 - establish the VPN from on-prem vsphere to AWS VPC. Part 4 - deploy Tanzu guest cluster and AKO/AMKO on AWS to demonstrate the automation, to provide L4 / L7 and GSLB to establish a multi-cluster / multi-cloud Tanzu use case.
+Updated by September 2021 **[NSX advanced LB integration with Tanzu - AKO and AMKO demo with AWS (cantonese)](https://www.youtube.com/watch?v=rYu9rkXaU14)** It is a part 3 & 4 video base on the pervious AKO/AMKO demo. Part 3 - establish the VPN (static) from on-prem vsphere to AWS VPC. Part 4 - deploy Tanzu guest cluster and AKO/AMKO on AWS to provide the automation/integration L4 / L7 and GSLB with Tanzu, in result of establishing a multi-cluster / multi-cloud Tanzu use case.
 
 
 Updated by August 2021 **[NSX lab setup - VDS7 and NSX 3.1 (cantonese)](https://www.youtube.com/watch?v=CJu-YNdqlYE&list=PLPzFGrmagR7alfIiiue2rzzEFsz8jfuCF)**
